@@ -1,0 +1,139 @@
+
+   
+   html{
+      background-color: #DFDECB;
+   }
+   h1{
+      font-size:38px; 
+      line-height:42px;
+      font-style: italic;
+      text-decoration: none; 
+      color: #A0364F;
+      font-weight:500;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      text-shadow: #1E3C34;
+   }
+
+   h2{
+      font-size:22px; 
+      line-height:26px;
+      font-style: italic;
+      text-decoration: underline; 
+      color:#B0924D; 
+      font-weight:500;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   } 
+
+   p{
+      font-size:16px;
+      line-height:20px; 
+      color:#1E3C34; 
+      font-weight:300; 
+      width:960px;
+      font-family:  'Arial Narrow Bold', sans-serif;
+   }
+
+   a{
+      color:rgb(33, 99, 199) ; 
+      text-decoration: overline;
+      font-family:  'Arial Narrow Bold', sans-serif;
+      
+
+   }
+
+   button{
+       background-color:#1E3C34;
+       color:#B0924D;
+       font-family:  'Arial Narrow Bold', sans-serif;
+       width: 140px;
+       height:50px ;
+       font-size: 20px;
+       
+       
+   }
+
+   button:hover{
+      background-color: #A0364F;
+      color: white;
+    }
+
+   blockquote{
+      color:#A0364F;
+      font-size: 20px;
+      font-family:  'Arial Narrow Bold', sans-serif;
+
+
+   }
+   li{
+      font-size:16px; 
+      line-height:20px; 
+      color:#1E3C34; 
+      font-weight:300;
+      font-style: oblique; 
+      width:960px;
+      font-family:  'Arial Narrow Bold', sans-serif;
+   }
+
+   aside{
+      margin-top: 10px;
+      margin-bottom: 0px;
+      margin-left: 10px;
+      margin-right: 10px;
+      padding: 10px;
+      height: 700px;
+      width: 350px;
+      border: #1E3C34;
+      border-width: 5px;
+      border-style: double;
+      float: right;
+   }
+   
+
+
+
+   .first{
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 0px;
+      margin-right: 10px;
+      padding: 10px;
+      width: 685px;
+      height: 700px;
+      border: #1E3C34;
+      border-width: 5px;
+      border-style: double;
+      
+   }
+
+  .second{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 0px;
+   margin-right: 10px;
+   padding: 10px;
+   width: 685px;
+   height: 1220px;
+   border: #1E3C34;
+   border-width: 5px;
+   border-style: double;}
+
+   .third{
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 0px;
+      margin-right: 10px;
+      padding: 10px;
+      width: 685px;
+      height: 150px;
+      border: #1E3C34;
+      border-width: 5px;
+      border-style: double;
+   }
+
+
+  
+   
+
+
+
+ 
